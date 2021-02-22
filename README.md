@@ -1,6 +1,8 @@
 # stats
 Calculate confidence intervals for samples of data in pure JS
 
+[try it here](https://pdayal.math.ncsu.edu/stats/)
+
 # screenshots
 
 ## menu:
